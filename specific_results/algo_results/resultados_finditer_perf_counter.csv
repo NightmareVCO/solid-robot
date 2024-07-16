@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,finditer,perf_counter,0.0031628202792655736
+data,finditer,perf_counter,0.0033780824501302717
+learning,finditer,perf_counter,0.003077445638157632
+research,finditer,perf_counter,0.003113934233733433
+computer,finditer,perf_counter,0.0030868943504277885
+ai,finditer,perf_counter,0.0031683265839620796
+systems,finditer,perf_counter,0.003177531082534276
+applications,finditer,perf_counter,0.0031026253617635466
+intelligence,finditer,perf_counter,0.00320816631334994
+field,finditer,perf_counter,0.003065594826201677

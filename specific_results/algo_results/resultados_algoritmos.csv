@@ -1,0 +1,7 @@
+Algoritmo,Tipo de Medición,Promedio General
+findall,timeit,0.0787781365805815
+findall,perf_counter,0.07608729895213209
+finditer,timeit,0.005066519820957961
+finditer,perf_counter,0.0031541421119526216
+search,timeit,0.05431710619035781
+search,perf_counter,0.052074422126229224

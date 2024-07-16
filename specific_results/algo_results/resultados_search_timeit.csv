@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,search,timeit,0.03506415861209674
+data,search,timeit,0.05504168459801571
+learning,search,timeit,0.05656995866455875
+research,search,timeit,0.050477266334634216
+computer,search,timeit,0.04165332232803802
+ai,search,timeit,0.05835559724441335
+systems,search,timeit,0.06541972415430905
+applications,search,timeit,0.06305455698989615
+intelligence,search,timeit,0.061702609199443016
+field,search,timeit,0.05583218377817313

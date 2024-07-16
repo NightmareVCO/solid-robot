@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,search,perf_counter,0.032733356267805803
+data,search,perf_counter,0.05299805849862089
+learning,search,perf_counter,0.05419340577787921
+research,search,perf_counter,0.048458735877469725
+computer,search,perf_counter,0.03937466153268249
+ai,search,perf_counter,0.05584092592030783
+systems,search,perf_counter,0.06341262442458272
+applications,search,perf_counter,0.06079396425923699
+intelligence,search,perf_counter,0.059148901319083166
+field,search,perf_counter,0.053789587384623395

@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,finditer,timeit,0.005061815555887848
+data,finditer,timeit,0.005501827021051321
+learning,finditer,timeit,0.004959786000299288
+research,finditer,timeit,0.004985923880434338
+computer,finditer,timeit,0.005011783533464196
+ai,finditer,timeit,0.005072301367417666
+systems,finditer,timeit,0.005127855680542226
+applications,finditer,timeit,0.004919109522581281
+intelligence,finditer,timeit,0.0051299402643923955
+field,finditer,timeit,0.004894855383509041

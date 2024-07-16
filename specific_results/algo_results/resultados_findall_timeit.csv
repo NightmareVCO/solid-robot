@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,findall,timeit,0.07983423982520184
+data,findall,timeit,0.08429883422037097
+learning,findall,timeit,0.07721925109645468
+research,findall,timeit,0.07782608337361112
+computer,findall,timeit,0.07830142844339212
+ai,findall,timeit,0.0808639722821878
+systems,findall,timeit,0.07866637148570206
+applications,findall,timeit,0.07583498457557637
+intelligence,findall,timeit,0.07853874184437366
+field,findall,timeit,0.07639745865894436

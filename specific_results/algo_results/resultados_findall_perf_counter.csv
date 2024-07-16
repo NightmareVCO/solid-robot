@@ -1,0 +1,11 @@
+Palabra,Algoritmo,Tipo de Medición,Promedio Tiempo
+science,findall,perf_counter,0.07707924611964502
+data,findall,perf_counter,0.08150289481480731
+learning,findall,perf_counter,0.07456727887188531
+research,findall,perf_counter,0.07485557645302061
+computer,findall,perf_counter,0.07555023896865663
+ai,findall,perf_counter,0.07829850901997948
+systems,findall,perf_counter,0.07605906099711954
+applications,findall,perf_counter,0.07322706298855908
+intelligence,findall,perf_counter,0.07580257892020803
+field,findall,perf_counter,0.07393054236743986
